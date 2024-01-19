@@ -1,0 +1,7 @@
+1. Full documentation - so far, only the data validation script has technical notes explaining how each function works,
+2. Unit Tests,
+3. Virtual Environment,
+4. More error handling,
+5. Data Analysis,
+6. A more packaged version of the project,
+7. A more refined version of the script that populates PostgreSQL table
